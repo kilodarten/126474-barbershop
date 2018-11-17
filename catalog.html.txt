@@ -143,6 +143,7 @@
                   <li class="pagination-item"><a href="#">4</a></li>
                 </ul>
               </section>
+                </main>
               <footer class="main-footer">
       <p class="footer-contacts">
         Барбершоп «Бородинский»<br>
@@ -167,5 +168,6 @@
       <p>Введите свой логин и пароль.</p>
       <!-- Здесь будет форма -->
       <span class="modal-close">x</span>
-    </section>
-      </main>
+      </section>
+      </body>
+</html>
